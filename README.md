@@ -1,6 +1,6 @@
-# personal-website
-My personal website
+# Cauclator
+My Cauclator
 
-Hey everyone today I made a website of how to write a letter. And if you want to see it just go to ocstewart.com
-and i hope you enjoyed!
-bye!
+Hello Internet So I have been working on this Caulcator with a youtube vid to help me.
+It took HTML, JS, and CSS.
+My dad helped me debug it.
